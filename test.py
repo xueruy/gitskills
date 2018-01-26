@@ -1,2 +1,2 @@
-print 'test',1
-print 5
+print 'test',2
+print 6
