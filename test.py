@@ -1,2 +1,1 @@
-print 'test'
-if 
+print 'test',1
