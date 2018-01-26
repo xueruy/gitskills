@@ -1,6 +1,4 @@
 # gitskills
-<<<<<<< HEAD
 fast and simple
-=======
-fast and simple
->>>>>>> feature1
+add merge
+and again
