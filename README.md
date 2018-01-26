@@ -1,2 +1,2 @@
 # gitskills
-Adding more branch, fast in git
+fast & simple
