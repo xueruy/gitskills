@@ -1,2 +1,6 @@
 # gitskills
-fast & simple
+<<<<<<< HEAD
+fast and simple
+=======
+fast and simple
+>>>>>>> feature1
